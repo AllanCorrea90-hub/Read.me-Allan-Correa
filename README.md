@@ -153,11 +153,9 @@ Busco oportunidades que me permitam:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllanCorrea90-hub&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=AllanCorrea90-hub&theme=tokyonight" />
 
 </div>
-
----
 
 ## 📈 Minha jornada
 
