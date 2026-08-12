@@ -191,15 +191,19 @@ Busco oportunidades que me permitam:
   <img src="https://img.shields.io/badge/GitHub-AllanCorrea90--hub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="http://www.linkedin.com/in/allan-vinicius-18421b137">
+<a href="https://www.linkedin.com/in/allan-vinicius-18421b137">
   <img src="https://img.shields.io/badge/LinkedIn-Allan%20Correa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://www.instagram.com/allan_vinicius90/">
+  <img src="https://img.shields.io/badge/Instagram-@allan__vinicius90-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/Allan.Vinicius90">
+  <img src="https://img.shields.io/badge/Facebook-Allan%20Vinicius-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
 </div>
-
----
-
-<div align="center">
 
 ### 🚀 Sempre aprendendo. Sempre evoluindo. Sempre programando.
 
