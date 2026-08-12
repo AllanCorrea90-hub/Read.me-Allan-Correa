@@ -153,7 +153,7 @@ Busco oportunidades que me permitam:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AllanCorrea90-hub&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AllanCorrea90-hub&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
